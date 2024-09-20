@@ -1,0 +1,9 @@
+*.log
+
+training/tb/
+
+*.pyc
+
+*.pth
+
+*.out
